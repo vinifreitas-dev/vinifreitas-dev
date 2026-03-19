@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Vini 👋
 
-<!--
-**vinifreitas-dev/vinifreitas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems student at **FIAP** — São Paulo, Brazil  
+💼 Solution Architect at **Insider One**, working on client onboarding and integrations  
+⚙️ Interested in automation, AI tooling, and building things that actually save time  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this space to share personal projects and solutions I've built along the way —  
+things that solved a real problem for me and might do the same for you.
+
+---
+
+### Some brands I've worked with
+
+[<img src="https://img.shields.io/badge/Bob's-D32F2F?style=for-the-badge" />](#)
+[<img src="https://img.shields.io/badge/Skelt-1565C0?style=for-the-badge" />](#)
+[<img src="https://img.shields.io/badge/LivUp-2E7D32?style=for-the-badge" />](#)
+
+---
+
+📬 Feel free to explore, open an issue, or reach out!
