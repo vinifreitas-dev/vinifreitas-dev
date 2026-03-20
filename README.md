@@ -5,7 +5,7 @@
 
 ---
 
-I use this space to share personal projects and solutions I've built along the way —  
+I use this space to share personal projects and solutions I've built along the way, 
 things that solved a real problem for me and might do the same for you.
 
 ---
