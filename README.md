@@ -9,7 +9,7 @@
 ## What I'm focused on
 
 - Studying for the **Google Cybersecurity Professional Certificate**
-- Holding an **AWS certification** and building on it with a cloud security focus
+- Holding the **AWS Cloud Practitioner Certification** and building on it with a cloud security focus
 - Learning detection and response: SIEM, IDS, log analysis, incident handling
 - Automating security tasks with Python
 
