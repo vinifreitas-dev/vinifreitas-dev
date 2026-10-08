@@ -1,26 +1,36 @@
 # Hey, I'm Vini 👋
-🎓 Information Systems student at **FIAP** — São Paulo, Brazil  
-💼 Solution Architect at **Insider One**, working on client onboarding and integrations  
-⚙️ Interested in automation, AI tooling, and building things that actually save time  
+
+🎓 Information Systems student at **FIAP**, São Paulo, Brazil  
+💼 Solutions Architect at **Insider One**, working on client onboarding, API integrations and platform troubleshooting  
+🛡️ Transitioning into **cybersecurity**, with a focus on cloud security and security automation  
 
 ---
 
-I use this space to share personal projects and solutions I've built along the way, 
-things that solved a real problem for me and might do the same for you.
+## What I'm focused on
+
+- Studying for the **Google Cybersecurity Professional Certificate**
+- Holding an **AWS certification** and building on it with a cloud security focus
+- Learning detection and response: SIEM, IDS, log analysis, incident handling
+- Automating security tasks with Python
+
+## Why my background matters
+
+Years of working with APIs, integrations and production troubleshooting taught me how systems actually break: misconfigured auth, noisy logs, fragile integrations. I'm bringing that mindset to security.
+
+## What you'll find here
+
+- Incident reports and response playbooks
+- Risk assessments and threat models
+- Python scripts for log analysis and security automation
+- AWS security baselines and misconfiguration checks
+- Write-ups from labs and CTFs (TryHackMe, Hack The Box)
+
+All projects use lab environments or fictional data.
+
+## Tools I'm working with
+
+`Linux` `SQL` `Python` `Wireshark` `Splunk` `Suricata` `AWS`
 
 ---
 
-### Some brands I've worked with
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Midea_Corporate_Logo.png" height="40" />](#)
-[<img src="https://logodownload.org/wp-content/uploads/2019/11/bobs-logo-0-2048x2048.png" height="40" />](#)
-[<img src="https://clubensc.com.br/wp-content/uploads/2022/03/large_e1f2dbf0-dc9a-4ac7-ada7-5a6a1ff551f2.png" height="40" />](#)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnxLhygCorJJN4MdKAcaClpvwU5dMpF4Q8rkMgQk-IQ&s&ec=121585071" height="40" />](#)
-[<img src="https://livup.imgix.net/site/images/logo-meta.png" height="40" />](#)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9tlYG9dz_TjCE8qa3KZfuxf1Phz3fEygu0g&s" height="40" />](#)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgiPBjV38YGnLi9fdPxeCPhs1ZXWWnRgCmjg&s" height="40" />](#)
-[<img src="https://logodownload.org/wp-content/uploads/2018/03/eurofarma-logo-2.png" height="30" />](#)
-
----
-
-📬 Feel free to explore, open an issue, or reach out!
+📬 Open to connecting with people in security. Reach out on [LinkedIn](https://linkedin.com/in/vinimendesfreitas) or open an issue.
