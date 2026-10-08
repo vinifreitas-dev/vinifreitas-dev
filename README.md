@@ -19,6 +19,7 @@ things that solved a real problem for me and might do the same for you.
 [<img src="https://livup.imgix.net/site/images/logo-meta.png" height="40" />](#)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9tlYG9dz_TjCE8qa3KZfuxf1Phz3fEygu0g&s" height="40" />](#)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgiPBjV38YGnLi9fdPxeCPhs1ZXWWnRgCmjg&s" height="40" />](#)
+[<img src="https://logodownload.org/wp-content/uploads/2018/03/eurofarma-logo-2.png" height="30" />](#)
 
 ---
 
